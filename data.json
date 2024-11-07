@@ -1,0 +1,7 @@
+[
+    {
+        "id": 1,
+        "urls": "youtube.com",
+        "css": "body{background:red !important;}"
+    }
+]

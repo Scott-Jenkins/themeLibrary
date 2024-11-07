@@ -2,6 +2,6 @@
     {
         "Id": 1,
         "Urls": "youtube.com",
-        "Css": "body{background:red !important;}"
+        "Css": "div#background {background: #8c00ff !important;}"
     }
 ]
